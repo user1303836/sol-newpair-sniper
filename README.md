@@ -1,6 +1,6 @@
 # sol-newpair-sniper
 
-Basic Radium pool watcher/sniper. Requires dedicated rpc node amongst other stuff
+Basic Raydium pool watcher/sniper. Requires dedicated rpc node
 
 # Usage
 
